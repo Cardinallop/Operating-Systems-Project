@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Done by Bobur Murtozaev
 public class ThreeWorkers extends Thread {
 
 	static double average;
