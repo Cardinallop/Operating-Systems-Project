@@ -11,6 +11,6 @@ We decided that each of us to pick separate question from the given 4 questions 
    
    Producer/Consumer/ThreeWorker files are done by [Bobur Murtozaev]
    
-   the first question was done by Teodule Mercedes
+   The first question was done by [Teodule Mercedes]
    
    
